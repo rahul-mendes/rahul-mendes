@@ -1,7 +1,4 @@
 # Hey There
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1MmFhM2U0MmI0ZmNhMDdkMWU1MmQ2ZTI2YzRiNDUyOGU3NTY2ZSZjdD1n/rMGDB5lVFWg9O/giphy.gif" width="300/>
-</div>
 Software engineering professional pursuing a degree in Computer Science. <br>Excels at Java, C, C++, JavaScript, and Python.
 
 
