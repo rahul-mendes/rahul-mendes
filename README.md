@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hey There
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/starwars-movie-star-wars-3ornk57KwDXf81rjWM" width="100"/>
+</div>
 Software engineering professional pursuing a degree in Computer Science. <br>Excels at Java, C, C++, JavaScript, and Python.
 
 
