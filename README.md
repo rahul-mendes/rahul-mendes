@@ -1,6 +1,6 @@
 # Hey There
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100"/>
+   <img src="https://tenor.com/bbe2y.gif" width="300"/>
 </div>
 Software engineering professional pursuing a degree in Computer Science. <br>Excels at Java, C, C++, JavaScript, and Python.
 
